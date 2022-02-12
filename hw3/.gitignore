@@ -1,0 +1,3 @@
+*.zip
+./test/hw3
+./test/output/**
